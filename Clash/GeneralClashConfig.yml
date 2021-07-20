@@ -79,7 +79,6 @@ dns:
     #- https://223.6.6.6/dns-query
     #- https://rubyfish.cn/dns-query
     #- https://dns.pub/dns-query
-     - 8.8.4.4
      - 223.5.5.5 # 阿里DNS
      - 180.76.76.76 # 百度DNS
      - 119.29.29.29 # 腾讯DNS
@@ -90,6 +89,7 @@ dns:
      - https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
      - 8.8.8.8 # 谷歌DNS
+     - 8.8.4.4
      - 1.1.1.1 # Cloudflare DNS
      - tls://dns.rubyfish.cn:853
      - tls://1.0.0.1:853
