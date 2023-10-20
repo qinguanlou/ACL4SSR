@@ -93,9 +93,13 @@ dns:
     #- 114.114.114.114 # 114DNS
     #- https://dns.alidns.com/dns-query # 阿里 DoH DNS
     #- https://doh.360.cn/dns-query # 360 DoH DNS
+  proxy-server-nameserver:
+     - https://doh.pub/dns-query
   fallback:
-     - tls://dns.google
-     - https://1.0.0.1/dns-query
+     - tls://8.8.4.4
+     - tls://1.1.1.1
+    #- tls://dns.google
+    #- https://1.0.0.1/dns-query
     #- 8.8.8.8 # 谷歌DNS
     #- 8.8.4.4
     #- 1.1.1.1 # Cloudflare DNS
@@ -105,8 +109,7 @@ dns:
     #- https://dns.rubyfish.cn/dns-query
     #- https://cloudflare-dns.com/dns-query
     #- https://dns.google/dns-query
-  proxy-server-nameserver:
-     - https://doh.pub/dns-query
+
   fallback-filter:
      geoip: true
      geoip-code: CN
