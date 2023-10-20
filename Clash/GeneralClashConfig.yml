@@ -73,11 +73,11 @@ dns:
   fake-ip-filter: # fake ip 白名单列表，如果你不知道这个参数的作用，请勿修改
     - '*.lan'
     - localhost.ptlogin2.qq.com
-  nameserver-policy:
-    'www.baidu.com': '114.114.114.114'
-    '+.internal.crop.com': '10.0.0.1'
-    '+.qinguanlou.xyz': '8.8.8.8'
-    'hk.misakaf.org': '8.8.8.8'
+  #nameserver-policy:
+    #'www.baidu.com': '114.114.114.114'
+    #'+.internal.crop.com': '10.0.0.1'
+    #'+.qinguanlou.xyz': '8.8.8.8'
+    #'hk.misakaf.org': '8.8.8.8'
   default-nameserver:
     - 114.114.114.114
     - 8.8.8.8
@@ -99,13 +99,13 @@ dns:
     #- https://dns.alidns.com/dns-query # 阿里 DoH DNS
     #- https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
-    - tls://8.8.4.4
-    - tls://1.1.1.1
-    - tls://dns.google
-    - https://1.0.0.1/dns-query
-    #- 8.8.4.4
-    #- 8.8.8.8 # 谷歌DNS
-    #- 1.1.1.1 # Cloudflare DNS
+    #- tls://8.8.4.4
+    #- tls://1.1.1.1
+    #- tls://dns.google
+    #- https://1.0.0.1/dns-query
+    - 8.8.4.4
+    - 8.8.8.8 # 谷歌DNS
+    - 1.1.1.1 # Cloudflare DNS
     #- tls://dns.rubyfish.cn:853
     #- tls://1.0.0.1:853
     #- tls://dns.google:853
