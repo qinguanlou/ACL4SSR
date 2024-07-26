@@ -1,5 +1,6 @@
 # 内容：Emby
 # 数量：65条
+DOMAIN-SUFFIX,170913.xyz
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,odylife.org
@@ -45,6 +46,7 @@ DOMAIN-SUFFIX,syq0806.top
 DOMAIN-SUFFIX,lyrebirdemby.com
 DOMAIN-SUFFIX,apopcloud.com
 DOMAIN-SUFFIX,581658.best
+DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,null.hair
 DOMAIN-SUFFIX,tnx.one
 DOMAIN-SUFFIX,viclub.top
@@ -58,13 +60,17 @@ DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,happyav.eu.org
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,infinityfly.top
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,monisaiche.cn
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
-IP-CIDR,140.83.59.29/24,no-resolve
-IP-CIDR,146.56.36.1/24,no-resolve
-IP-CIDR,193.123.67.207/24,no-resolve
-IP-CIDR,38.6.225.148/24,no-resolve
-IP-CIDR,185.126.80.94/24,no-resolve
+IP-CIDR,213.35.107.237/32,no-resolve
+IP-CIDR,138.2.7.171/32,no-resolve
+IP-CIDR,140.83.59.29/32,no-resolve
+IP-CIDR,146.56.36.1/32,no-resolve
+IP-CIDR,193.123.67.207/32,no-resolve
+IP-CIDR,38.6.225.148/32,no-resolve
+IP-CIDR,185.126.80.94/32,no-resolve
 # DOMAIN-SUFFIX,889393.xyz     //阿甘
 # DOMAIN-SUFFIX,freetz.top     //魔法emby
 # DOMAIN-SUFFIX,foxcoo.top     //foxcoo
