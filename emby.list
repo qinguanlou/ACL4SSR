@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,odylife.org
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,jmsuper.com
-DOMAIN-SUFFIX,prpr.cn.com
+DOMAIN-SUFFIX,iflya321.com
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,aca.best
@@ -84,13 +84,17 @@ DOMAIN-SUFFIX,itsmyduty.top
 DOMAIN-SUFFIX,crond.dev
 DOMAIN-SUFFIX,cavps.eu.org
 DOMAIN-SUFFIX,tdck.fun
+DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,vfing.de
 DOMAIN-SUFFIX,auroramedia.vip
 DOMAIN-SUFFIX,711.lol
 DOMAIN-SUFFIX,91ai.de
 DOMAIN-SUFFIX,lemby.me
 DOMAIN-SUFFIX,alist7.eu.org
-DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,259772.xyz
+DOMAIN-SUFFIX,saturday.video
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,wenjian.de
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 IP-CIDR,168.119.137.205/32,no-resolve
@@ -101,6 +105,7 @@ IP-CIDR,138.2.7.171/32,no-resolve
 IP-CIDR,140.83.59.29/32,no-resolve
 IP-CIDR,146.56.36.1/32,no-resolve
 IP-CIDR,193.123.67.207/32,no-resolve
+IP-CIDR,191.96.242.90/32,no-resolve
 IP-CIDR,38.6.225.148/32,no-resolve
 IP-CIDR,185.126.80.94/32,no-resolve
 IP-CIDR,46.3.99.99/32,no-resolve
