@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,emby.eu.org
 DOMAIN-SUFFIX,gugumedia.link
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,as174.de
 DOMAIN-SUFFIX,carlos.trade
 DOMAIN-SUFFIX,catlinks.co.uk
 DOMAIN-SUFFIX,emby.at
@@ -78,7 +80,8 @@ DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,567996.xyz
 DOMAIN-SUFFIX,alphatvapp.top
 DOMAIN-SUFFIX,mooguu.xyz
-DOMAIN-SUFFIX,lilyya.xyz
+DOMAIN-SUFFIX,lilyemby.my
+DOMAIN-SUFFIX,lilyya.top
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,itsmyduty.top
 DOMAIN-SUFFIX,crond.dev
@@ -118,7 +121,6 @@ IP-CIDR,46.3.101.143/32,no-resolve
 # DOMAIN-SUFFIX,airpor.top     //白浪兔
 # DOMAIN-SUFFIX,zerodisk.site  //田小瑞
 # DOMAIN-SUFFIX,nvidia.rip     //hxd
-# DOMAIN-SUFFIX,bili.rip       //hxd
 # DOMAIN-SUFFIX,embyplus.club  //品云
 # DOMAIN-SUFFIX,4545.cf   //佛系
 # DOMAIN-SUFFIX,mseic.com  //仲夏
