@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,saturday.video
 DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,wenjian.de
+DOMAIN-SUFFIX,beebi.org
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 IP-CIDR,168.119.137.205/32,no-resolve
@@ -116,6 +117,7 @@ IP-CIDR,46.3.99.99/32,no-resolve
 IP-CIDR,46.3.99.83/32,no-resolve
 IP-CIDR,46.3.101.30/32,no-resolve
 IP-CIDR,46.3.101.143/32,no-resolve
+IP-CIDR,135.180.189.141,no-resolve
 # DOMAIN-SUFFIX,889393.xyz     //阿甘
 # DOMAIN-SUFFIX,freetz.top     //魔法emby
 # DOMAIN-SUFFIX,foxcoo.top     //foxcoo
