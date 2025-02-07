@@ -117,7 +117,7 @@ IP-CIDR,46.3.99.99/32,no-resolve
 IP-CIDR,46.3.99.83/32,no-resolve
 IP-CIDR,46.3.101.30/32,no-resolve
 IP-CIDR,46.3.101.143/32,no-resolve
-IP-CIDR,135.180.189.141,no-resolve
+IP-CIDR,135.180.189.141/32,no-resolve
 # DOMAIN-SUFFIX,889393.xyz     //阿甘
 # DOMAIN-SUFFIX,freetz.top     //魔法emby
 # DOMAIN-SUFFIX,foxcoo.top     //foxcoo
