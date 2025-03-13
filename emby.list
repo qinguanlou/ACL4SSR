@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,doven.tv
 DOMAIN-SUFFIX,114514.quest
 DOMAIN-SUFFIX,bwihz.cn
 DOMAIN-SUFFIX,cn2gias.uk
-DOMAIN-SUFFIX,nc.monisaiche.cn
+# DOMAIN-SUFFIX,nc.monisaiche.cn
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 IP-CIDR,168.119.137.205/32,no-resolve
