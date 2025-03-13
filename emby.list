@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,pilipili.club
+DOMAIN-SUFFIX,bilibili.uk
+DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,emby.eu.org
 DOMAIN-SUFFIX,gugumedia.link
@@ -46,7 +48,6 @@ DOMAIN-SUFFIX,xiaochengshiguduo.xyz
 DOMAIN-SUFFIX,285286.xyz
 DOMAIN-SUFFIX,9191001.xyz
 DOMAIN-SUFFIX,atvii.com
-DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,syq0806.top
 DOMAIN-SUFFIX,lyrebirdemby.com
@@ -104,6 +105,8 @@ DOMAIN-SUFFIX,ucloudhost.top
 DOMAIN-SUFFIX,doven.tv
 DOMAIN-SUFFIX,114514.quest
 DOMAIN-SUFFIX,bwihz.cn
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,nc.monisaiche.cn
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 IP-CIDR,168.119.137.205/32,no-resolve
