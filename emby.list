@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,onyra.cc
 DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,744444.xyz
 DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 IP-CIDR,168.119.137.205/32,no-resolve
@@ -136,6 +137,7 @@ IP-CIDR,46.3.99.83/32,no-resolve
 IP-CIDR,46.3.101.30/32,no-resolve
 IP-CIDR,46.3.101.143/32,no-resolve
 IP-CIDR,135.180.189.141/32,no-resolve
+IP-CIDR,193.122.114.13/32,no-resolve
 # DOMAIN-SUFFIX,cn2gias.uk   //守候网络
 # DOMAIN-SUFFIX,nc.monisaiche.cn  //备胎服
 # DOMAIN-SUFFIX,889393.xyz     //阿甘
