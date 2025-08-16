@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,pilipili.club
+DOMAIN-SUFFIX,1l1.icu
 DOMAIN-SUFFIX,bilibili.uk
 DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,123456.al
@@ -56,6 +57,7 @@ DOMAIN-SUFFIX,apopcloud.live
 DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,feiyue.lol
 DOMAIN-SUFFIX,null.hair
 DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,viclub.top
@@ -81,7 +83,7 @@ DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,567996.xyz
 DOMAIN-SUFFIX,alphatvapp.top
 DOMAIN-SUFFIX,mooguu.xyz
-DOMAIN-SUFFIX,jsq.vban.xyz
+DOMAIN-SUFFIX,vban.xyz
 DOMAIN-SUFFIX,lilyemby.my
 DOMAIN-SUFFIX,lilyya.top
 DOMAIN-SUFFIX,emby.my
@@ -110,6 +112,7 @@ DOMAIN-SUFFIX,bwihz.cn
 DOMAIN-SUFFIX,dpeak.top
 DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,yomo.lol
+DOMAIN-SUFFIX,yamo.uk
 DOMAIN-SUFFIX,nezhasu.com
 DOMAIN-SUFFIX,pcmhub.org
 DOMAIN-SUFFIX,dpdns.org
@@ -127,8 +130,19 @@ DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,frre.me
 DOMAIN-SUFFIX,785858.xyz
 DOMAIN-SUFFIX,okbap.com
+DOMAIN-SUFFIX,zn.al
+DOMAIN-SUFFIX,hohai.eu.org
+DOMAIN-SUFFIX,5msky.com
 DOMAIN-SUFFIX,staryuki.com
+DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,handoumedia.top
+DOMAIN-SUFFIX,shrekmedia.org
+DOMAIN-SUFFIX,djniche1.eu.org
+DOMAIN-SUFFIX,heisi.org
+DOMAIN-SUFFIX,digimon.ink
+DOMAIN-SUFFIX,frp.one
+DOMAIN-SUFFIX,outong-valve.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 IP-CIDR,168.119.137.205/32,no-resolve
